@@ -10,9 +10,11 @@ langchain-core==0.1.10
 numpy==1.24.3
 pandas==2.0.3
 requests==2.31.0
+tensorflow
 
 # Environment and configuration
 python-dotenv==1.0.0
 
 # Optional: For API development
+
 # fastapi==0.104.1
