@@ -1,0 +1,18 @@
+# Core LangChain and LLM dependencies
+langchain==0.0.354
+llama-cpp-python==0.2.20
+
+# LangChain community extensions
+langchain-community==0.0.13
+langchain-core==0.1.10
+
+# Data processing and utilities
+numpy==1.24.3
+pandas==2.0.3
+requests==2.31.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Optional: For API development
+# fastapi==0.104.1
